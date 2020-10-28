@@ -1,4 +1,4 @@
 from aluno import Aluno
 
 aluno = Aluno()
-aluno.save("Dudu", 'Kazenski', '001')
+aluno.save("Eduardo", 'Kazenski', 'desenvolvedor')
